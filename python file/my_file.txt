@@ -1,0 +1,4 @@
+This is a directory project.
+Opening files in python.
+This helps me save important things i don't want to chabge often.
+This is very effective.
